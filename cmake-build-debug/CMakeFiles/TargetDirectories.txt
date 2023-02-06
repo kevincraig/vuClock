@@ -1,0 +1,5 @@
+/Users/kevincraig/Documents/PlatformIO/Projects/vuClock/cmake-build-debug/CMakeFiles/Production.dir
+/Users/kevincraig/Documents/PlatformIO/Projects/vuClock/cmake-build-debug/CMakeFiles/Debug.dir
+/Users/kevincraig/Documents/PlatformIO/Projects/vuClock/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/kevincraig/Documents/PlatformIO/Projects/vuClock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kevincraig/Documents/PlatformIO/Projects/vuClock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
