@@ -53,5 +53,5 @@ void LEDController::initLEDController()
     led.colorWipe(strip.Color(0, 255, 0), 50);
     led.colorWipe(strip.Color(0, 0, 255), 50);
 
-    led.setLEDColor(255, 0, 0);
+    led.setLEDColor(0, 0, 255);
 }

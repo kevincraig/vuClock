@@ -23,4 +23,14 @@ String CLKWifi::getSSID()
 
 void CLKWifi::scanNetworks()
 {
+    int n = WiFi.scanNetworks();
+
+    for (int i = 0; i < n; i++)
+    {
+        Serial.print("Network name: ");
+        Serial.println(WiFi.SSID(i));
+        Serial.print("Signal strength: ");
+        Serial.println(WiFi.RSSI(i));
+        Serial.println("-----------------------");
+    }
 }

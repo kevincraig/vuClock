@@ -5,6 +5,7 @@ body {
     padding: 1em;
 }
 
+
 .main-panel {
     position: relative;
     min-height: 100vh;
@@ -34,12 +35,6 @@ body {
 .card .card-title {
     font-weight: 100;
     color: #ffffff;
-}
-
-.container {
-    color: white;
-    border: 2px;
-    border-style: solid;
 }
 
 .navbar {
